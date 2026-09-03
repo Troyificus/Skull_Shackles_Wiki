@@ -1,3 +1,13 @@
+---
+title: Home
+description: 
+published: true
+date: 2026-09-03T12:07:15.619Z
+tags: 
+editor: markdown
+dateCreated: 2026-09-03T09:25:38.745Z
+---
+
 # [[Skull and Shackles Season 1]] - Campaign Wiki
 
 Welcome to the Obsidian Campaign Wiki for **Skull and Shackles Season 1**. This vault contains highly detailed chronicles of all 60 episodes of our high-seas adventure, alongside our master campaign databases.
